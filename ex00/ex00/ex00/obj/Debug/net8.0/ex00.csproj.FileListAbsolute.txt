@@ -1,0 +1,15 @@
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\bin\Debug\net8.0\ex00.exe
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\bin\Debug\net8.0\ex00.deps.json
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\bin\Debug\net8.0\ex00.runtimeconfig.json
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\bin\Debug\net8.0\ex00.dll
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\bin\Debug\net8.0\ex00.pdb
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.GeneratedMSBuildEditorConfig.editorconfig
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.AssemblyInfoInputs.cache
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.AssemblyInfo.cs
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.csproj.CoreCompileInputs.cache
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.sourcelink.json
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.dll
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\refint\ex00.dll
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.pdb
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ex00.genruntimeconfig.cache
+C:\techWin11\c#\exercicios\ex00\ex00\ex00\obj\Debug\net8.0\ref\ex00.dll
