@@ -1,0 +1,15 @@
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\bin\Debug\net8.0\ex10.exe
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\bin\Debug\net8.0\ex10.deps.json
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\bin\Debug\net8.0\ex10.runtimeconfig.json
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\bin\Debug\net8.0\ex10.dll
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\bin\Debug\net8.0\ex10.pdb
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.AssemblyInfoInputs.cache
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.AssemblyInfo.cs
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.csproj.CoreCompileInputs.cache
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.sourcelink.json
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.dll
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\refint\ex10.dll
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.pdb
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ex10.genruntimeconfig.cache
+C:\techWin11\csharp\exercises\ex10\ex10\ex10\obj\Debug\net8.0\ref\ex10.dll
