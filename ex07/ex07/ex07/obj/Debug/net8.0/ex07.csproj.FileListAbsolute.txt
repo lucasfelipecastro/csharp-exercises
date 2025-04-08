@@ -1,0 +1,15 @@
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\bin\Debug\net8.0\ex07.exe
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\bin\Debug\net8.0\ex07.deps.json
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\bin\Debug\net8.0\ex07.runtimeconfig.json
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\bin\Debug\net8.0\ex07.dll
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\bin\Debug\net8.0\ex07.pdb
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.AssemblyInfoInputs.cache
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.AssemblyInfo.cs
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.csproj.CoreCompileInputs.cache
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.sourcelink.json
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.dll
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\refint\ex07.dll
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.pdb
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ex07.genruntimeconfig.cache
+C:\techWin11\csharp\exercises\ex07\ex07\ex07\obj\Debug\net8.0\ref\ex07.dll
