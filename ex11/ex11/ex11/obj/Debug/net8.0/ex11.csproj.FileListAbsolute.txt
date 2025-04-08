@@ -1,0 +1,15 @@
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\bin\Debug\net8.0\ex11.exe
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\bin\Debug\net8.0\ex11.deps.json
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\bin\Debug\net8.0\ex11.runtimeconfig.json
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\bin\Debug\net8.0\ex11.dll
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\bin\Debug\net8.0\ex11.pdb
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.AssemblyInfoInputs.cache
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.AssemblyInfo.cs
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.csproj.CoreCompileInputs.cache
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.sourcelink.json
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.dll
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\refint\ex11.dll
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.pdb
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ex11.genruntimeconfig.cache
+C:\techWin11\csharp\exercises\ex11\ex11\ex11\obj\Debug\net8.0\ref\ex11.dll
