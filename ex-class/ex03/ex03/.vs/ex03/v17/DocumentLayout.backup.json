@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\techWin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E310222-88FE-4F00-BA14-D959BF1F7D75}|ex03\\ex03.csproj|c:\\techwin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E310222-88FE-4F00-BA14-D959BF1F7D75}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E310222-88FE-4F00-BA14-D959BF1F7D75}|ex03\\ex03.csproj|c:\\techwin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\ex03\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E310222-88FE-4F00-BA14-D959BF1F7D75}|ex03\\ex03.csproj|solutionrelative:ex03\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\techWin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\ex03\\Program.cs",
+              "RelativeDocumentMoniker": "ex03\\Program.cs",
+              "ToolTip": "C:\\techWin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\ex03\\Program.cs",
+              "RelativeToolTip": "ex03\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:25:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\techWin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\ex03\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ex03\\Rectangle.cs",
+              "ToolTip": "C:\\techWin11\\csharp\\exercises\\ex-class\\ex03\\ex03\\ex03\\Rectangle.cs",
+              "RelativeToolTip": "ex03\\Rectangle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:28:21.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
