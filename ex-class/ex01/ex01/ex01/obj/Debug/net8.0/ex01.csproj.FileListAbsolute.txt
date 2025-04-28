@@ -1,0 +1,15 @@
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\bin\Debug\net8.0\ex01.exe
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\bin\Debug\net8.0\ex01.deps.json
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\bin\Debug\net8.0\ex01.dll
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\bin\Debug\net8.0\ex01.pdb
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.sourcelink.json
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.dll
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\refint\ex01.dll
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.pdb
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+C:\techWin11\csharp\exercises\ex-class\ex01\ex01\ex01\obj\Debug\net8.0\ref\ex01.dll
